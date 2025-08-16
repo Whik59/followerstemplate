@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.latamboost.shop/sitemaps/sitemap-index.xml
